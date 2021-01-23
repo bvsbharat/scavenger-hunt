@@ -27,3 +27,7 @@ yarn lint
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Preview 
+See [live link](https://scavenger-hunt-pro.herokuapp.com/).
+
